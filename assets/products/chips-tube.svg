@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 160" fill="none"><ellipse cx="80" cy="148" rx="44" ry="6" fill="#3a2230" opacity=".12"/>
+<rect x="48" y="38" width="64" height="104" rx="8" fill="#7cc45a" stroke="#3a2230" stroke-width="3.5" stroke-linejoin="round" stroke-linecap="round"/>
+<rect x="50" y="62" width="60" height="44" fill="#fffaf2"/>
+<path d="M50 62 H110 M50 106 H110" stroke="#3a2230" stroke-width="2.5" stroke-linejoin="round" stroke-linecap="round"/>
+<ellipse cx="80" cy="84" rx="14" ry="11" fill="#f6c445" stroke="#3a2230" stroke-width="2.5" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M70 84 H90" stroke="#d9a02b" stroke-width="2.5" stroke-linecap="round"/>
+<rect x="44" y="28" width="72" height="14" rx="7" fill="#d5dae0" stroke="#3a2230" stroke-width="3.5" stroke-linejoin="round" stroke-linecap="round"/>
+<rect x="56" y="44" width="6" height="92" rx="3" fill="#fff" opacity=".35"/>
+<g transform="rotate(-22 116 34)"><path d="M98 34 C98 20 134 20 134 34 C134 46 98 46 98 34Z" fill="#f6c445" stroke="#3a2230" stroke-width="2.5" stroke-linejoin="round" stroke-linecap="round"/><path d="M108 34 H124" stroke="#d9a02b" stroke-width="2.5" stroke-linecap="round"/></g></svg>
