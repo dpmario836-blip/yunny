@@ -48,7 +48,7 @@ const money = n => new Intl.NumberFormat('es-MX', { style: 'currency', currency:
 const byId = id => PRODUCTS.find(p => p.id === id);
 const ASSETS = 'assets';
 const flagImg = code => `<img class="flag" src="${ASSETS}/flags/${code}.svg" alt="" width="20" height="14">`;
-const prodSrc = p => `${ASSETS}/products/${p.img}.svg`;
+const prodSrc = p => `${ASSETS}/products/${p.img}.jpg`;
 
 const state = {
   category: 'Todos',
